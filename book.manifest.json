@@ -1,0 +1,420 @@
+{
+  "$schema": "https://anaise.org/schemas/book.v1.json",
+  "id": "book-caps-siyavula-cat-grade-11",
+  "title": "Computer Applications Technology Grade 11 (CAPS)",
+  "subtitle": "Complete CAPS-aligned digital textbook for Grade 11 CAT by Siyavula Education.",
+  "version": "1.0.0",
+  "coverImage": null,
+  "thumbnail": null,
+  "authors": [
+    {
+      "name": "Siyavula Education",
+      "affiliation": "Siyavula Open Textbooks Project"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "toc": [
+    {
+      "id": "ch01",
+      "title": "Chapter 1: General concepts of computing",
+      "sections": [
+        {
+          "id": "sec-01-01-01-unit-1-1-information-processing-cycle",
+          "title": "UNIT 1.1 Information processing cycle",
+          "path": "chapters/01-general-concepts-of-computing/01-unit-1-1-information-processing-cycle.mdx",
+          "estimatedMinutes": 8
+        },
+        {
+          "id": "sec-01-02-02-unit-1-3-the-role-of-icts-in-the-workplace",
+          "title": "UNIT 1.3 The role of ICTs in the workplace",
+          "path": "chapters/01-general-concepts-of-computing/02-unit-1-3-the-role-of-icts-in-the-workplace.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-01-03-03-unit-1-4-the-value-of-cat",
+          "title": "UNIT 1.4 The value of CAT",
+          "path": "chapters/01-general-concepts-of-computing/03-unit-1-4-the-value-of-cat.mdx",
+          "estimatedMinutes": 7
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "title": "Chapter 2: Input, output and other devices",
+      "sections": [
+        {
+          "id": "sec-02-01-01-unit-2-1-input-devices",
+          "title": "UNIT 2.1 Input devices",
+          "path": "chapters/02-input-output-and-other-devices/01-unit-2-1-input-devices.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-02-02-02-unit-2-2-output-devices",
+          "title": "UNIT 2.2 Output devices",
+          "path": "chapters/02-input-output-and-other-devices/02-unit-2-2-output-devices.mdx",
+          "estimatedMinutes": 10
+        },
+        {
+          "id": "sec-02-03-03-unit-2-3-devices-software-and-equipment",
+          "title": "UNIT 2.3 Devices, software and equipment",
+          "path": "chapters/02-input-output-and-other-devices/03-unit-2-3-devices-software-and-equipment.mdx",
+          "estimatedMinutes": 7
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "title": "Chapter 3: Storage, memory and processing devices",
+      "sections": [
+        {
+          "id": "sec-03-01-01-unit-3-1-storage-devices",
+          "title": "UNIT 3.1 Storage devices",
+          "path": "chapters/03-storage-memory-and-processing-devices/01-unit-3-1-storage-devices.mdx",
+          "estimatedMinutes": 7
+        },
+        {
+          "id": "sec-03-02-02-unit-3-2-processing-devices",
+          "title": "UNIT 3.2 Processing devices",
+          "path": "chapters/03-storage-memory-and-processing-devices/02-unit-3-2-processing-devices.mdx",
+          "estimatedMinutes": 6
+        },
+        {
+          "id": "sec-03-03-03-unit-3-3-basic-troubleshooting",
+          "title": "UNIT 3.3 Basic troubleshooting",
+          "path": "chapters/03-storage-memory-and-processing-devices/03-unit-3-3-basic-troubleshooting.mdx",
+          "estimatedMinutes": 8
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "title": "Chapter 4: Software",
+      "sections": [
+        {
+          "id": "sec-04-01-01-unit-4-1-the-role-of-application-software",
+          "title": "UNIT 4.1 The role of application software",
+          "path": "chapters/04-software/01-unit-4-1-the-role-of-application-software.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-04-02-02-unit-4-2-collaboration-and-communication-software",
+          "title": "UNIT 4.2 Collaboration and communication software",
+          "path": "chapters/04-software/02-unit-4-2-collaboration-and-communication-software.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-04-03-03-unit-4-3-compatibility-issues",
+          "title": "UNIT 4.3 Compatibility issues",
+          "path": "chapters/04-software/03-unit-4-3-compatibility-issues.mdx",
+          "estimatedMinutes": 6
+        },
+        {
+          "id": "sec-04-04-04-unit-4-4-software-for-physically-challenged-users",
+          "title": "UNIT 4.4 Software for physically challenged users",
+          "path": "chapters/04-software/04-unit-4-4-software-for-physically-challenged-users.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-04-05-05-unit-4-5-cloud-based-applications",
+          "title": "UNIT 4.5 Cloud-based applications",
+          "path": "chapters/04-software/05-unit-4-5-cloud-based-applications.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-04-06-06-unit-4-6-online-storage",
+          "title": "UNIT 4.6 Online storage",
+          "path": "chapters/04-software/06-unit-4-6-online-storage.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch05",
+      "title": "Chapter 5: Hardware, software and computer management",
+      "sections": [
+        {
+          "id": "sec-05-01-01-unit-5-1-basic-system-requirements",
+          "title": "UNIT 5.1 Basic system requirements",
+          "path": "chapters/05-hardware-software-and-computer-management/01-unit-5-1-basic-system-requirements.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-05-02-02-unit-5-2-software-installation",
+          "title": "UNIT 5.2 Software installation",
+          "path": "chapters/05-hardware-software-and-computer-management/02-unit-5-2-software-installation.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-05-03-03-unit-5-3-file-management",
+          "title": "UNIT 5.3 File management",
+          "path": "chapters/05-hardware-software-and-computer-management/03-unit-5-3-file-management.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch06",
+      "title": "Chapter 6: Social implications of hardware",
+      "sections": [
+        {
+          "id": "sec-06-01-01-unit-6-1-input-and-output-devices-for-physically-challenged-users",
+          "title": "UNIT 6.1 Input and output devices for physically challenged users",
+          "path": "chapters/06-social-implications-of-hardware/01-unit-6-1-input-and-output-devices-for-physically-challenged-users.mdx",
+          "estimatedMinutes": 6
+        },
+        {
+          "id": "sec-06-02-02-unit-6-2-health-issues-due-to-input-and-output-devices",
+          "title": "UNIT 6.2 Health issues due to input and output devices",
+          "path": "chapters/06-social-implications-of-hardware/02-unit-6-2-health-issues-due-to-input-and-output-devices.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-06-03-03-unit-6-3-protecting-your-hardware",
+          "title": "UNIT 6.3 Protecting your hardware",
+          "path": "chapters/06-social-implications-of-hardware/03-unit-6-3-protecting-your-hardware.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-06-04-04-unit-6-4-power-supply-and-settings",
+          "title": "UNIT 6.4 Power supply and settings",
+          "path": "chapters/06-social-implications-of-hardware/04-unit-6-4-power-supply-and-settings.mdx",
+          "estimatedMinutes": 6
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "title": "Chapter 7: Networks and internet technologies",
+      "sections": [
+        {
+          "id": "sec-07-01-01-unit-7-1-networks",
+          "title": "UNIT 7.1 Networks",
+          "path": "chapters/07-networks-and-internet-technologies/01-unit-7-1-networks.mdx",
+          "estimatedMinutes": 14
+        },
+        {
+          "id": "sec-07-02-02-unit-7-2-intranet-vs-internet",
+          "title": "UNIT 7.2 Intranet vs internet",
+          "path": "chapters/07-networks-and-internet-technologies/02-unit-7-2-intranet-vs-internet.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-07-03-03-unit-7-3-basic-network-security",
+          "title": "UNIT 7.3 Basic network security",
+          "path": "chapters/07-networks-and-internet-technologies/03-unit-7-3-basic-network-security.mdx",
+          "estimatedMinutes": 6
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "title": "Chapter 8: Social implications of computer networks",
+      "sections": [
+        {
+          "id": "sec-08-01-01-unit-8-1-social-issues-for-networks",
+          "title": "UNIT 8.1 Social issues for networks",
+          "path": "chapters/08-social-implications-of-computer-networks/01-unit-8-1-social-issues-for-networks.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-08-02-02-unit-8-2-network-security",
+          "title": "UNIT 8.2 Network security",
+          "path": "chapters/08-social-implications-of-computer-networks/02-unit-8-2-network-security.mdx",
+          "estimatedMinutes": 10
+        },
+        {
+          "id": "sec-08-03-03-unit-8-3-databases-and-big-data",
+          "title": "UNIT 8.3 Databases and Big data",
+          "path": "chapters/08-social-implications-of-computer-networks/03-unit-8-3-databases-and-big-data.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-08-04-04-unit-8-4-normal-currency-vs-cryptocurrency",
+          "title": "UNIT 8.4 Normal currency vs cryptocurrency",
+          "path": "chapters/08-social-implications-of-computer-networks/04-unit-8-4-normal-currency-vs-cryptocurrency.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "title": "Chapter 9: Errors and bugs",
+      "sections": [
+        {
+          "id": "sec-09-01-01-unit-9-1-human-error",
+          "title": "UNIT 9.1 Human error",
+          "path": "chapters/09-errors-and-bugs/01-unit-9-1-human-error.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-09-02-02-unit-9-2-verification-and-validation-of-data",
+          "title": "UNIT 9.2 Verification and validation of data",
+          "path": "chapters/09-errors-and-bugs/02-unit-9-2-verification-and-validation-of-data.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-09-03-03-unit-9-3-software-bugs",
+          "title": "UNIT 9.3 Software bugs",
+          "path": "chapters/09-errors-and-bugs/03-unit-9-3-software-bugs.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-09-04-04-unit-9-4-hardware-failures",
+          "title": "UNIT 9.4 Hardware failures",
+          "path": "chapters/09-errors-and-bugs/04-unit-9-4-hardware-failures.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "title": "Chapter 10: Social issues and online protection",
+      "sections": [
+        {
+          "id": "sec-10-01-01-unit-10-1-social-engineering-tricks",
+          "title": "UNIT 10.1 Social-engineering tricks",
+          "path": "chapters/10-social-issues-and-online-protection/01-unit-10-1-social-engineering-tricks.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-10-02-02-unit-10-2-data-protection",
+          "title": "UNIT 10.2 Data protection",
+          "path": "chapters/10-social-issues-and-online-protection/02-unit-10-2-data-protection.mdx",
+          "estimatedMinutes": 6
+        },
+        {
+          "id": "sec-10-03-03-unit-10-3-protecting-yourself-online",
+          "title": "UNIT 10.3 Protecting yourself online",
+          "path": "chapters/10-social-issues-and-online-protection/03-unit-10-3-protecting-yourself-online.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-10-04-04-unit-10-4-e-commerce-and-e-banking",
+          "title": "UNIT 10.4 E-commerce and e-banking",
+          "path": "chapters/10-social-issues-and-online-protection/04-unit-10-4-e-commerce-and-e-banking.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-10-05-05-unit-10-5-how-antivirus-programs-work",
+          "title": "UNIT 10.5 How antivirus programs work",
+          "path": "chapters/10-social-issues-and-online-protection/05-unit-10-5-how-antivirus-programs-work.mdx",
+          "estimatedMinutes": 5
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "title": "Chapter 11: Internet and the World Wide Web",
+      "sections": [
+        {
+          "id": "sec-11-01-01-unit-11-1-internet-communication",
+          "title": "UNIT 11.1 Internet communication",
+          "path": "chapters/11-internet-and-the-world-wide-web/01-unit-11-1-internet-communication.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-11-02-02-unit-11-2-online-transactions",
+          "title": "UNIT 11.2 Online transactions",
+          "path": "chapters/11-internet-and-the-world-wide-web/02-unit-11-2-online-transactions.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-11-03-03-unit-11-3-the-internet-of-things-iot",
+          "title": "UNIT 11.3 The Internet of Things (IoT)",
+          "path": "chapters/11-internet-and-the-world-wide-web/03-unit-11-3-the-internet-of-things-iot.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-11-04-04-unit-11-4-fourth-industrial-revolution-4ir",
+          "title": "UNIT 11.4 Fourth Industrial Revolution (4IR)",
+          "path": "chapters/11-internet-and-the-world-wide-web/04-unit-11-4-fourth-industrial-revolution-4ir.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-11-05-05-unit-11-5-social-media",
+          "title": "UNIT 11.5 Social media",
+          "path": "chapters/11-internet-and-the-world-wide-web/05-unit-11-5-social-media.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-11-06-06-unit-11-6-internet-access",
+          "title": "UNIT 11.6 Internet access",
+          "path": "chapters/11-internet-and-the-world-wide-web/06-unit-11-6-internet-access.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-11-07-07-unit-11-7-browser-and-email-software",
+          "title": "UNIT 11.7 Browser and email software",
+          "path": "chapters/11-internet-and-the-world-wide-web/07-unit-11-7-browser-and-email-software.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-11-08-08-unit-11-8-usability-of-web-pages-and-websites",
+          "title": "UNIT 11.8 Usability of web pages and websites",
+          "path": "chapters/11-internet-and-the-world-wide-web/08-unit-11-8-usability-of-web-pages-and-websites.mdx",
+          "estimatedMinutes": 9
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "title": "Chapter 12: E-communications",
+      "sections": [
+        {
+          "id": "sec-12-01-01-unit-12-1-register-a-web-based-email-address",
+          "title": "UNIT 12.1 Register a web-based email address",
+          "path": "chapters/12-ecommunications/01-unit-12-1-register-a-web-based-email-address.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-12-02-02-unit-12-2-managing-email",
+          "title": "UNIT 12.2 Managing email",
+          "path": "chapters/12-ecommunications/02-unit-12-2-managing-email.mdx",
+          "estimatedMinutes": 15
+        }
+      ]
+    },
+    {
+      "id": "ch13",
+      "title": "Chapter 13: Information management",
+      "sections": [
+        {
+          "id": "sec-13-01-01-unit-13-1-defining-the-task",
+          "title": "UNIT 13.1 Defining the task",
+          "path": "chapters/13-information-management/01-unit-13-1-defining-the-task.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-13-02-02-unit-13-2-finding-information",
+          "title": "UNIT 13.2 Finding information",
+          "path": "chapters/13-information-management/02-unit-13-2-finding-information.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-13-03-03-unit-13-3-quality-control-of-information",
+          "title": "UNIT 13.3 Quality control of information",
+          "path": "chapters/13-information-management/03-unit-13-3-quality-control-of-information.mdx",
+          "estimatedMinutes": 12
+        },
+        {
+          "id": "sec-13-04-04-unit-13-4-spreadsheets-and-databases-in-data-handling",
+          "title": "UNIT 13.4 Spreadsheets and databases in data handling",
+          "path": "chapters/13-information-management/04-unit-13-4-spreadsheets-and-databases-in-data-handling.mdx",
+          "estimatedMinutes": 5
+        },
+        {
+          "id": "sec-13-05-05-unit-13-5-processing-data",
+          "title": "UNIT 13.5 Processing data",
+          "path": "chapters/13-information-management/05-unit-13-5-processing-data.mdx",
+          "estimatedMinutes": 6
+        },
+        {
+          "id": "sec-13-06-06-unit-13-6-analysing-data-and-information",
+          "title": "UNIT 13.6 Analysing data and information",
+          "path": "chapters/13-information-management/06-unit-13-6-analysing-data-and-information.mdx",
+          "estimatedMinutes": 8
+        }
+      ]
+    }
+  ]
+}
